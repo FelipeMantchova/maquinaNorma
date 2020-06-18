@@ -1,0 +1,8 @@
+(2,2,0,0)
+1:ZER B 5 2
+2:ADD A 3
+3:ADD C 4
+4:SUB B 1
+5:ZER C 404 6
+6:SUB C 7
+7:ADD B 5
