@@ -1,2 +1,19 @@
 # maquinaNorma
 Norma machine
+
+O PROGRAMA LÊ UM ARQUIVO DE CADA VEZ
+
+PARA ALTERAR AS VARIAVEIS, ABRA O ARQUIVO RESPECTIVO E MUDE OS VALORES DA PRIMEIRA LINHA
+EX.: 
+-abra "soma.txt"
+-mude o valor de B 
+-(2,2,0,0) => (2,3,0,0)
+
+
+THE PROGRAM READS ONE FILE AT A TIME
+
+TO CHANGE THE VARIABLES, OPEN THE RESPECTIVE FILE AND CHANGE THE VALUES OF THE FIRST LINE
+EX.:
+-open "soma.txt"   (soma is sum)
+-change the value of B
+- (2,2,0,0) => (2,3,0
